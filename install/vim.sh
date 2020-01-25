@@ -6,3 +6,5 @@ curl -fLo ~/.vim/autoload/onedark.vim --create-dirs \
         https://raw.githubusercontent.com/joshdick/onedark.vim/master/autoload/onedark.vim
 curl -fLo ~/.vim/colors/onedark.vim --create-dirs \
         https://raw.githubusercontent.com/joshdick/onedark.vim/master/colors/onedark.vim
+
+cp ../.vimrc ~/.vimrc
