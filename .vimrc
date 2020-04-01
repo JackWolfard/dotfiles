@@ -24,3 +24,7 @@ set colorcolumn=80
 " searching
 set incsearch
 set hlsearch
+
+" mouse
+set mouse=a
+
