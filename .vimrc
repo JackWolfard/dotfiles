@@ -1,5 +1,6 @@
 call plug#begin('~/.vim/plugged')
 Plug 'sheerun/vim-polyglot'
+Plug 'editorconfig/editorconfig-vim'
 call plug#end()
 
 syntax enable
