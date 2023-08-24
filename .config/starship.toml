@@ -1,0 +1,14 @@
+"$schema" = "https://starship.rs/config-schema.json"
+
+add_newline = false
+
+command_timeout = 500
+
+[git_branch]
+format = "on [$symbol$branch]($style) "
+
+[git_status]
+ignore_submodules = true
+
+[username]
+show_always = true
